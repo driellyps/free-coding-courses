@@ -7,4 +7,9 @@ Repository with links of programming courses for free*.
 - <b>FreeCodeCamp:</b> https://www.freecodecamp.org/
 
 ## Português-BR
+- <b>Rocketseat:</b> https://rocketseat.com.br/
 - <b>Digital Inovation One:</b> https://digitalinnovation.one/
+
+<hr>
+
+### How to contribute with this repository
